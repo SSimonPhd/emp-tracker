@@ -14,7 +14,7 @@ Build a command-line application from scratch to manage a company's employee dat
 
 - URL to Video Demo
 
-Coming soon!
+https://drive.google.com/file/d/1ej8qEhk4dx16txyrDAe1Ld6sOUbpFf3v/view
 
 - URL to GitHub Repo
 
