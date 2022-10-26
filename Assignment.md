@@ -39,7 +39,7 @@ The following video shows an example of the application being used from the comm
 
 ## Getting Started
 
-You’ll need to use the MySQL2 packageLinks to an external site. to connect to your MySQL database and perform queries, the Inquirer packageLinks to an external site. to interact with the user via the command line, and the console.table packageLinks to an external site. to print MySQL rows to the console.
+You’ll need to use the MySQL2 package to connect to your MySQL database and perform queries, the Inquirer package to interact with the user via the command line, and the console.table package to print MySQL rows to the console.
 
 ## IMPORTANT
 
