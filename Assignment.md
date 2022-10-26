@@ -127,11 +127,11 @@ The walkthrough video must demonstrate a functional menu with the options outlin
 ### Technical Acceptance Criteria: 40%
 Satisfies all of the preceding acceptance criteria plus the following:
 
-Uses the Inquirer packageLinks to an external site..
+Uses the Inquirer package.
 
-Uses the MySQL2 packageLinks to an external site. to connect to a MySQL database.
+Uses the MySQL2 package to connect to a MySQL database.
 
-Uses the console.table packageLinks to an external site. to print MySQL rows to the console.
+Uses the console.table package to print MySQL rows to the console.
 
 Follows the table schema outlined in the homework instructions.
 
